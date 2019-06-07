@@ -22,3 +22,4 @@
 
         php main.php geometric:draw /graphiceditor/sampleconfig.json
         
+   After the success run, there will be 3 files generated at the same folder
