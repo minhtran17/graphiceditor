@@ -1,0 +1,46 @@
+[
+  {
+    "type": "circle",
+    "params": {
+      "width": 100,
+      "height": 100,
+      "borderSize": 100,
+      "color": 100,
+      "outputType": "matrix",
+      "outputTo": "/graphiceditor/circle.png"
+    }
+  },
+  {
+    "type": "ellipse",
+    "params": {
+      "width": 200,
+      "height": 200,
+      "borderSize": 200,
+      "color": 200,
+      "outputType": "image",
+      "outputTo": "/graphiceditor/ellipse.png"
+    }
+  },
+  {
+    "type": "rectangle",
+    "params": {
+      "width": 300,
+      "height": 300,
+      "borderSize": 300,
+      "color": 300,
+      "outputType": "image",
+      "outputTo": "/graphiceditor/rectangle.png"
+    }
+  },
+  {
+    "type": "square",
+    "params": {
+      "width": 400,
+      "height": 400,
+      "borderSize": 400,
+      "color": 400,
+      "outputType": "image",
+      "outputTo": "/graphiceditor/square.png"
+    }
+  }
+]

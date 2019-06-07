@@ -1,0 +1,10 @@
+version: '2.1'
+services:
+  graphic:
+    build: ".."
+    container_name: "graphic-editor"
+    volumes:
+      - "../..:/graphiceditor"
+    env_file:
+      - ../../config/.env
+    working_dir: "/graphiceditor"
