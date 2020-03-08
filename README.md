@@ -2,8 +2,6 @@
 
 1. Clone git 
 
-        git clone git@github.com:minhtran17/urbansport.git
-
 2. Install [docker](https://docs.docker.com/engine/installation)
 
 3. Install [docker-compose](https://docs.docker.com/compose/install/)
